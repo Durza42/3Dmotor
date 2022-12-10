@@ -3,7 +3,7 @@
  #define CPP
 #endif
 
-#include "../lib_malo/malo.h"
+#include <miscellaneous/malo.h>
 
 #include "field_menu.h"
 
