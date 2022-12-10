@@ -3,7 +3,7 @@
  #define CPP
 #endif
 
-#include <miscellaneous/malo.h>
+#include "include/miscellaneous/malo.h"
 
 #include "field_menu.h"
 
@@ -72,4 +72,3 @@ SDL_Texture* Field::get_texture () const {
 SDL_Rect Field::get_rect () const {
    return m_pos;
 }
-
