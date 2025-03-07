@@ -7,9 +7,9 @@
 
  #include <GLES3/gl3.h>
 
- #include <glm/glm.hpp>
- #include <glm/gtx/transform.hpp>
- #include <glm/gtc/type_ptr.hpp>
+ #include "glm/glm.hpp"
+ #include "glm/gtx/transform.hpp"
+ #include "glm/gtc/type_ptr.hpp"
 
  #include <SDL2/SDL_image.h>
  #include <SDL2/SDL.h>

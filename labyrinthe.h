@@ -1,9 +1,9 @@
 #ifndef LABYRINTHE_H
  #define LABYRINTHE_H
 
- #include <glm/glm.hpp>
- #include <glm/gtx/transform.hpp>
- #include <glm/gtc/type_ptr.hpp>
+ #include "glm/glm.hpp"
+ #include "glm/gtx/transform.hpp"
+ #include "glm/gtc/type_ptr.hpp"
 
  #include <array>
 
